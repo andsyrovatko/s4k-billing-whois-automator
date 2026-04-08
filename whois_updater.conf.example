@@ -1,0 +1,12 @@
+# Database Settings
+PSQL_USER="psql_user"
+PSQL_DB="psql_db"
+
+# Whois Settings
+WHOIS_SERVER="whois.domain.com"
+WHOIS_PASS="YOUR_SECRET_PASSWORD"
+CHANGED_EMAIL="whois_user@domain.com"
+MAIL_RECIPIENT="auto-dbm@whois.domain.com"
+
+# Paths
+LOG_DIR="/var/log/scripts/whois_updater"
