@@ -18,5 +18,8 @@ This script automates the synchronization between a **PostgreSQL billing databas
    ```bash
    ./whois_upd.sh "NEW_SWITCH_HOSTNAME"
    ```
+### ⚖️ License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ### Use at your own risk! The author is not responsible for any data loss!
